@@ -1,7 +1,7 @@
 ---
 home: true
 portfolio: true
-title: 档案主页
+title: 关于
 icon: home
 welcome: 👋 你好，我是
 name: 江户川柯南
